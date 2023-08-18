@@ -9,12 +9,6 @@ body
     margin: 0;
 }
 
-img {
-    max-width: 100%;
-    height: auto;
-    width: auto\9; /* ie8 */
-}
-
 .header
 {
     background-image: url("./images/home.jpg");
@@ -41,5 +35,8 @@ img {
 {
     font-size: 50px; 
     font-family: 'Verdana', 'Arial';
-    color:rgba(240, 41, 6)
+    color:rgba(240, 41, 6);
 }
+
+/*https://stackoverflow.com/questions/23226888/horizontal-list-items-fit-to-100-with-even-spacing*/
+

@@ -1,0 +1,9 @@
+img, h1, h2, p
+{
+    /*Centers Image*/
+    display: block;
+    margin: 0 auto;
+
+    text-align: center;
+}
+
