@@ -38,5 +38,41 @@ body
     color:rgba(240, 41, 6);
 }
 
+.bottom ul li
+{
+    display: inline-block; 
+    width: 33.19%;
+    padding: 20% 0%;
+    margin-bottom: 10px;
+
+    background-size: cover;
+    box-shadow: inset 0 0 0 1000px rgba(21, 86, 26, 0.625);
+}
+
+.bottom ul li a
+{
+    text-decoration: none;
+    font-size: 50px; 
+    font-family: 'Verdana', 'Arial';
+    color: white;
+    text-transform:uppercase;
+}
+
+.bottom ul #sandwich
+{
+    background-image: url("./images/sandwich.webp");
+
+}
+
+.bottom ul #sausage
+{
+    background-image: url("./images/sausage.webp");
+}
+
+.bottom ul #bagel
+{
+    background-image: url("./images/bagel.webp");
+}
+
 /*https://stackoverflow.com/questions/23226888/horizontal-list-items-fit-to-100-with-even-spacing*/
 
