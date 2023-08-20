@@ -64,3 +64,9 @@ li
     text-transform: uppercase;
 }
 
+#steps h2
+{
+    font-family: 'Verdana', 'Arial';
+    font-size: 35px;
+    text-transform: uppercase;
+}
